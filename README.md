@@ -15,3 +15,7 @@ A class must have only one reason to exist and should execute only one thing.
 ### [Open-Closed Principle](src/ocp/VideoOcpProblem.java)
 
 A class must be **open** for extension but **closed** for modification.
+
+### [Liskov Substitution Principle](src/lsp/MovieLspProblem.java)
+
+Subclasses can be replaced by their parent classes.
